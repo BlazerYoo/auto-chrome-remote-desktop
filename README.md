@@ -5,6 +5,6 @@ Run `git clone https://github.com/BlazerYoo/auto-chrome-remote-desktop.git` or [
 
 Run `pip install -r requirements.txt` to install dependencies.
 
-Run the Python script on the host computer (the one that is sharing screen).
+Run the Python script on the host computer (the one that is sharing screen) at the start of the support/sharing session.
 
 Built with [PyAutoGUI](https://github.com/asweigart/pyautogui/).
