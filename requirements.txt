@@ -1,1 +1,2 @@
 pyautogui
+opencv-python
